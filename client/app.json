@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Tappy",
+    "slug": "Tappy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IconLogo.png",
+    "splash": {
+      "image": "./assets/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e7f0dd"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "co.Tappy.Tappy",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "co.Tappy.Tappy",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/TappyLogo.png"
+    }
+  }
+}
