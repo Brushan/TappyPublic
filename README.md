@@ -4,6 +4,11 @@ A mobile app that allows users to gift other users with "Taps", which then can b
 # Motivation
 # Build status
 # Screenshots
+<img src="images\Screenshot_1600939333.png" width="200">
+<img src="images\Screenshot_1600939356.png" width="200">
+<img src="images\Screenshot_1600939363.png" width="200">
+<img src="images\Screenshot_1600939369.png" width="200">
+
 # Tech/framework used
 Built with: 
 - React Native
